@@ -1,0 +1,17 @@
+REMARK: --- a small game ---
+WIN_ROOM: 0
+WIN_ITEM: cat
+WIN_TEXT: The cat is home! You win!
+
+REMARK: ------ ROOM 0 -------
+ROOM: Inside a home
+You are in a home. Find & return the cat.
+SOUTH: 1
+
+REMARK: -------- ROOM 1 ------
+ROOM: Outside a home
+You are outside a home. The door is open.
+ITEM: cat
+A lost cat that wants to go home.
+NORTH: 0
+END:

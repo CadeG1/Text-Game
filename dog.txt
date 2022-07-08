@@ -1,0 +1,23 @@
+REMARK: ------------------ GET THE BALL FOR THE DOG ---------------------
+WIN_ROOM: 0
+WIN_ITEM: ball
+WIN_ITEM: dog
+WIN_TEXT: The dog grabs the ball and wags his tail happily. You win!
+
+REMARK: --------------------- room 0 data  ------------------------------
+ROOM: Inside the home
+You are inside a small home with a couch, chair and TV. It smells like dog in here.
+ITEM: dog
+He is a white dog with short pointed ears, a long coat, and a tail curled over his back. He is circling and whining, as if missing his favorite toy. Maybe you can find it for him?
+WEST: 1
+
+REMARK: --------------------- room 1 data  ------------------------------
+ROOM: In a yard
+You are in the yard in front of a modest home. The front door of the home is open to the east.
+ITEM: ball
+It is a small rubber ball. It looks like it has been chewed up!
+EAST:  0
+
+
+REMARK: --------------------- end of data  ------------------------------
+END:

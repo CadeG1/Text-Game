@@ -1,0 +1,115 @@
+REMARK: ------------------ LUNCH GAME ---------------------
+WIN_ROOM: 15
+WIN_ITEM: burger
+WIN_ITEM: fries
+WIN_ITEM: bottle
+WIN_TEXT: Joiner arrives, scarfs down the lunch, and pats you on your head, smiling. You win!
+
+REMARK: ------------------ ROOM 0 ---------------------
+ROOM: Outside Marksbury
+You are standing outside the Marksbury building at the east entrance. Buttercups are blooming along next to the wall. A glass doorway leads north inside the building, while the sidewalk leads east toward a parking lot.
+ITEM: cell phone
+Its your cell phone. There is a text from Joiner: GET ME SOME LUNCH! BURGER, FRIES, AND SOMETHING TO DRINK. DROP IT OFF IN THE FIRST FLOOR MARKSBURY CONFERENCE ROOM!
+NORTH: 9  
+EAST:  1  
+
+REMARK: ------------------ ROOM 1 ---------------------
+ROOM: small street
+You are standing in a small street between the Marksbury building to the west and a parking lot to the east.
+WEST: 0  
+EAST: 2  
+
+REMARK: ------------------ ROOM 2 ---------------------
+ROOM: parking lot
+You are in a parking lot, with no spots available as usual. You see the Marksbury building further west, a small strip mall to the east, and Wildcat Lodge to the south.
+WEST: 1
+EAST: 3
+
+REMARK: ------------------ ROOM 3 ---------------------
+ROOM: outside a strip mall
+You are outside a strip mall with a few small shops. The sign above the entrance to the north says "Coliseum Liquors." There is a parking lot to the west and the strip mall continues further east.
+NORTH: 6
+EAST:  4  
+WEST:  2 
+
+REMARK: ------------------ ROOM 4 ---------------------
+ROOM: outside a strip mall
+You are outside a strip mall where heavenly aromas fill the air. The sign above the entrance to the north says "Coffea". The strip mall continues east and west.
+NORTH: 7  
+EAST:  5 
+WEST:  3 
+
+REMARK: ------------------ ROOM 5 ---------------------
+ROOM: outside a strip mall
+You are at the end of a strip mall, outside the last shop. The sign above the entrance to the north says "Burger Fi".  The strip mall continues to the west.
+NORTH: 8  
+WEST:  4  
+
+REMARK: ------------------ ROOM 6 ---------------------
+ROOM: Coliseum Liquor
+You are inside a liquor store. While most of the shelves are full of Devil Water, but there are a few other things for sale here too.
+ITEM: bottle
+It's a bottle of gin. Who would want to drink fermented juniper berries? YUCK!
+SOUTH: 3
+
+REMARK: ------------------ ROOM 7 ---------------------
+ROOM: Coffea
+There are small tables and comfortable couches scattered around a coffee bar full of delightful drinks.
+ITEM: cup
+It is a delicious Iced Mocha.
+SOUTH: 4
+
+REMARK: ------------------ ROOM 8 ---------------------
+ROOM: Burger Fi
+There are tables and chairs for eating, and a bar to order food. You've heard they have a good Tuesday Special.
+ITEM: burger
+It is a big, juicy cheese burger with extra mustard.
+ITEM: fries
+It is a generous order of greasy fries, smothered in ketchup.
+SOUTH: 5
+
+REMARK: ------------------ ROOM 9 ---------------------
+ROOM: entrance
+You are inside the entrance to Marksbury. A glass door leads out of the building to the south, while another leads into the hallway to the north.
+SOUTH: 0
+NORTH: 10
+
+REMARK: ------------------ ROOM 10 ---------------------
+ROOM: hallway
+You are at the end of a hallway in the Marksbury building. The hallway continues to the west, while a door to the south is the exit.
+WEST: 11 
+SOUTH: 9
+
+REMARK: ------------------ ROOM 11 ---------------------
+ROOM: hallway
+You are in a long hallway with a glass wall overlooking a beautiful parking lot to the south, and large windows into a research area to the north.
+EAST: 10  
+WEST: 12  
+
+REMARK: ------------------ ROOM 12 ---------------------
+ROOM: hallway
+You are in a long hallway with a glass wall overlooking a beautiful parking lot to the south, and large windows into a research area to the north, where you see a tall gangly grad student working diligently.
+EAST: 11
+WEST: 13
+
+REMARK: ------------------ ROOM 13 ---------------------
+ROOM: foyer
+You are in the main foyer of the Marksbury building. There is a small theater to the west and a hallway to the east. The foyer continues to the north.
+NORTH: 14
+EAST:  12
+
+REMARK: ------------------ ROOM 14 ---------------------
+ROOM: foyer
+You are in the main foyer of the Marksbury building. There is an entrance to a conference room to the east, while the foyer continues south.
+SOUTH: 13
+EAST:  15 
+
+REMARK: ------------------ ROOM 15 ---------------------
+ROOM: conference room
+This is the large conference room in Marksbury. There is a large table surrounded by chairs in the middle of the room, washed in sunlight from windows along the north wall.
+ITEM: note
+Just drop my lunch here and I'll come get it -- Joiner
+WEST: 14
+
+REMARK: ------------------ END OF DATA ---------------------
+END:
